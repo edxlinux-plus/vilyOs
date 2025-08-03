@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+          xubuntu-core-instruçao
+
+
+
+
+
+instale    xubuntu-core
+
+
+apt install  xubuntu-core
+
+
+se ja estiver instalado nao prescisa instalar
+
+
+
+para modificar a aparencia
+
+
+
+
+
+
+baixar  xubuntu-core.tar.gz
+
+
+
+https://github.com/edxlinux-plus/vilyOs/blob/main/xubuntu-core.tar.gz
+
+
+
+copie pro sistema /usr/share
+
+
+navegue no sistema com root no terminal /usr/share
+
+
+cd /usr/share
+
+
+
+cp -r xubuntu-core.tar.gz   /usr/share
+
+
+descompacte xubuntu-core.tar.gz
+
+
+
+tar -vzxf xubuntu-core.tar.gz
+
+
+remova xubuntu-core.tar.gz
+
+
+rm xubuntu-core.tar.gz
+
+
+
